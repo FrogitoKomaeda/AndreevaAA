@@ -1,3 +1,3 @@
 print('Hello, input 2 whole numbers.')
 a, b = map(int, input().split())
-print(a + b + 2 + 1)
+print(a + b)
